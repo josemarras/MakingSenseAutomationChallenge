@@ -1,5 +1,5 @@
 # "Making Sense" Coding Automation Challenge by Jose Carabajal
-The following is a Java + Selenium + TestNG test execution. Its purpose is to follow the guidelines from the code challenge:
+The purpose of this document is to follow the guidelines from the code challenge:
 
 
 ## Code Challenge Requirements:
@@ -32,5 +32,5 @@ The following is a Java + Selenium + TestNG test execution. Its purpose is to fo
 
 # Additional Notes
 - I created the test framework on the amount of time I had on the weekend.
-- I don't use chromedriver because with the bonigarcia dependency it is not necessary.
+- I don't downloaded and used chromedriver because with the bonigarcia dependency it is not necessary.
 - To run the test you have run the file suite.xml inside the path src/test/resources
